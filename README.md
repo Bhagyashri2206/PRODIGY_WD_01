@@ -3,7 +3,7 @@
 🌐 RESPONSIVE LANDING PAGE
 
 
-📌 PROJECT OVERVIEW
+ PROJECT OVERVIEW
 ------------------------------------------------
 This project is a responsive landing page built
 using HTML, CSS, and JavaScript. It is designed
@@ -12,7 +12,7 @@ across all devices including mobile, tablet,
 and desktop screens.
 
 
-🎯 OBJECTIVES
+ OBJECTIVES
 ------------------------------------------------
 • Create a clean and modern landing page
 • Implement responsive design using CSS
@@ -20,14 +20,14 @@ and desktop screens.
 • Strengthen front-end development skills
 
 
-🛠️ TECHNOLOGIES USED
+ TECHNOLOGIES USED
 ------------------------------------------------
 • HTML5  - Page structure
 • CSS3   - Styling, layout, responsiveness
 • JavaScript - Interactivity and dynamic behavior
 
 
-✨ FEATURES
+ FEATURES
 ------------------------------------------------
 • Fully responsive layout
 • Eye-catching UI design
@@ -36,16 +36,14 @@ and desktop screens.
 • Cross-browser compatibility
 
 
-📂 PROJECT STRUCTURE
+ PROJECT STRUCTURE
 ------------------------------------------------
 Responsive-Landing-Page/
-│
-├── index.html
-├── style.css
-└── script.js
+index.html
+style.css
+script.js
 
-
-🚀 HOW TO RUN THE PROJECT
+ HOW TO RUN THE PROJECT
 ------------------------------------------------
 1. Download or clone the repository
 2. Open the project folder
@@ -53,7 +51,7 @@ Responsive-Landing-Page/
 4. Explore the responsive landing page
 
 
-🎓 LEARNING OUTCOMES
+ LEARNING OUTCOMES
 ------------------------------------------------
 • Understanding responsive web design
 • Improved CSS styling and layout skills
@@ -61,7 +59,7 @@ Responsive-Landing-Page/
 • Better UI/UX design practices
 
 
-🙌 ACKNOWLEDGMENT
+ ACKNOWLEDGMENT
 ------------------------------------------------
 This project was developed as part of an
 internship task to enhance practical skills
